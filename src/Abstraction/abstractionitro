@@ -1,0 +1,11 @@
+hiding the implementation details showing functionality to the user.
+
+Abstraction achieved by two types
+
+abstract class ---> partial hiding --->  inside the abstract class we should write instance method, static method and 
+                                         abstract method 
+
+
+
+
+interface 

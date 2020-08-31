@@ -1,0 +1,14 @@
+Polymorphism ---> single action with multiple ways
+
+
+types ----> compile time, runtime(dynamic ) 
+
+compile time ---> method overloading
+
+
+run time ---> method overriding
+
+
+method overloading----> same method name different argument with the class
+
+method overriding ---> same method name argument is same  two different classes with parent and child relations ship
